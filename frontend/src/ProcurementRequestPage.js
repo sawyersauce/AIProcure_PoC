@@ -1,11 +1,7 @@
-import React from 'react';
+import React from "react";
 
-const ProcurementRequestPage = () => {
-    return (
-        <div>
-            <h1>Procurement Request Page</h1>
-        </div>
-    );
-};
+function ProcurementRequestPage() {
+    return <h2>Procurement Request Page</h2>;
+}
 
 export default ProcurementRequestPage;
